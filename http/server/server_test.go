@@ -4,6 +4,6 @@ import (
 	"testing"
 )
 
-func TestStratUp(t *testing.T) {
-	stratup()
+func TestStartUp(t *testing.T) {
+	startUp()
 }
