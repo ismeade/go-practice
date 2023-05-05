@@ -6,7 +6,7 @@ require (
 	fyne.io/fyne v1.3.0
 	github.com/boltdb/bolt v1.3.1
 	github.com/eclipse/paho.mqtt.golang v1.2.0
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.9.0
 	github.com/go-redis/redis v6.15.7+incompatible
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gorilla/websocket v1.4.2
